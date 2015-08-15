@@ -1,0 +1,13 @@
+InkSlide: Features
+++++++++++++++++++
+
+Features include wrapped top level text and
+- mulitple
+  - levels
+    - of wrapped bulleted lists with bullets and font
+      information taken from the template file.
+
+Slide specific content like this:
+
+
+which is updated when the template changes.
